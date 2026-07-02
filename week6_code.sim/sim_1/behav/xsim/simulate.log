@@ -1,0 +1,666 @@
+Time resolution is 1 ps
+proof of initialization-  0
+initial content at #10-  0
+initial content at #256-  0
+content of read_data before reset  x
+read_data after reset,  0
+MEM TIMESTAMP=5000. Memory FSM=x addr=xxxx regFileData=00 readData=xxxx
+======================================================================
+Memory Bank TIMESTAMP:5000
+======================================================================
+MEMORY: addr=xxxx readData=00 mem=xx
+address x0100 holds data=00 address x0101 holds data=00
+MEM TIMESTAMP=15000. Memory FSM=0 addr=0000 regFileData=xx readData=0000
+======================================================================
+Memory Bank TIMESTAMP:15000
+======================================================================
+MEMORY: addr=0000 readData=xx mem=00
+address x0100 holds data=00 address x0101 holds data=00
+MEM TIMESTAMP=25000. Memory FSM=0 addr=0000 regFileData=00 readData=0000
+======================================================================
+Memory Bank TIMESTAMP:25000
+======================================================================
+MEMORY: addr=0000 readData=00 mem=00
+address x0100 holds data=00 address x0101 holds data=00
+MEM TIMESTAMP=35000. Memory FSM=0 addr=0000 regFileData=00 readData=0000
+======================================================================
+Memory Bank TIMESTAMP:35000
+======================================================================
+MEMORY: addr=0000 readData=00 mem=00
+address x0100 holds data=00 address x0101 holds data=00
+MEM TIMESTAMP=45000. Memory FSM=0 addr=0000 regFileData=00 readData=0000
+======================================================================
+Memory Bank TIMESTAMP:45000
+======================================================================
+MEMORY: addr=0000 readData=00 mem=00
+address x0100 holds data=00 address x0101 holds data=00
+MEM TIMESTAMP=55000. Memory FSM=0 addr=0000 regFileData=00 readData=0000
+======================================================================
+Memory Bank TIMESTAMP:55000
+======================================================================
+MEMORY: addr=0000 readData=00 mem=00
+address x0100 holds data=00 address x0101 holds data=00
+=============================================
+AGEX authorized to store to registers
+MEM TIMESTAMP=65000. Memory FSM=0 addr=0000 regFileData=00 readData=000f
+======================================================================
+Memory Bank TIMESTAMP:65000
+======================================================================
+MEMORY: addr=0000 readData=00 mem=00
+address x0100 holds data=00 address x0101 holds data=00
+MEM TIMESTAMP=75000. Memory FSM=0 addr=0000 regFileData=00 readData=000f
+======================================================================
+Memory Bank TIMESTAMP:75000
+======================================================================
+MEMORY: addr=0000 readData=00 mem=00
+address x0100 holds data=00 address x0101 holds data=00
+MEM TIMESTAMP=85000. Memory FSM=0 addr=0000 regFileData=00 readData=000f
+======================================================================
+Memory Bank TIMESTAMP:85000
+======================================================================
+MEMORY: addr=0000 readData=00 mem=00
+address x0100 holds data=00 address x0101 holds data=00
+MEM TIMESTAMP=95000. Memory FSM=0 addr=0000 regFileData=00 readData=000f
+======================================================================
+Memory Bank TIMESTAMP:95000
+======================================================================
+MEMORY: addr=0000 readData=00 mem=00
+address x0100 holds data=00 address x0101 holds data=00
+=============================================
+AGEX authorized to store to registers
+MEM TIMESTAMP=105000. Memory FSM=0 addr=0000 regFileData=00 readData=0010
+======================================================================
+Memory Bank TIMESTAMP:105000
+======================================================================
+MEMORY: addr=0000 readData=00 mem=00
+address x0100 holds data=00 address x0101 holds data=00
+MEM TIMESTAMP=115000. Memory FSM=0 addr=0000 regFileData=00 readData=0010
+======================================================================
+Memory Bank TIMESTAMP:115000
+======================================================================
+MEMORY: addr=0000 readData=00 mem=00
+address x0100 holds data=00 address x0101 holds data=00
+MEM TIMESTAMP=125000. Memory FSM=0 addr=0000 regFileData=00 readData=0010
+======================================================================
+Memory Bank TIMESTAMP:125000
+======================================================================
+MEMORY: addr=0000 readData=00 mem=00
+address x0100 holds data=00 address x0101 holds data=00
+MEM TIMESTAMP=135000. Memory FSM=0 addr=0000 regFileData=00 readData=0010
+======================================================================
+Memory Bank TIMESTAMP:135000
+======================================================================
+MEMORY: addr=0000 readData=00 mem=00
+address x0100 holds data=00 address x0101 holds data=00
+=============================================
+AGEX authorized to store to registers
+MEM TIMESTAMP=145000. Memory FSM=0 addr=0000 regFileData=00 readData=0020
+======================================================================
+Memory Bank TIMESTAMP:145000
+======================================================================
+MEMORY: addr=0000 readData=00 mem=00
+address x0100 holds data=00 address x0101 holds data=00
+MEM TIMESTAMP=155000. Memory FSM=0 addr=0000 regFileData=00 readData=0020
+======================================================================
+Memory Bank TIMESTAMP:155000
+======================================================================
+MEMORY: addr=0000 readData=00 mem=00
+address x0100 holds data=00 address x0101 holds data=00
+MEM TIMESTAMP=165000. Memory FSM=0 addr=0000 regFileData=00 readData=0020
+======================================================================
+Memory Bank TIMESTAMP:165000
+======================================================================
+MEMORY: addr=0000 readData=00 mem=00
+address x0100 holds data=00 address x0101 holds data=00
+MEM TIMESTAMP=175000. Memory FSM=0 addr=0000 regFileData=00 readData=0020
+======================================================================
+Memory Bank TIMESTAMP:175000
+======================================================================
+MEMORY: addr=0000 readData=00 mem=00
+address x0100 holds data=00 address x0101 holds data=00
+=============================================
+AGEX authorized to store to registers
+MEM TIMESTAMP=185000. Memory FSM=0 addr=0000 regFileData=00 readData=0020
+======================================================================
+Memory Bank TIMESTAMP:185000
+======================================================================
+MEMORY: addr=0000 readData=00 mem=00
+address x0100 holds data=00 address x0101 holds data=00
+MEM TIMESTAMP=195000. Memory FSM=0 addr=0000 regFileData=00 readData=0020
+======================================================================
+Memory Bank TIMESTAMP:195000
+======================================================================
+MEMORY: addr=0000 readData=00 mem=00
+address x0100 holds data=00 address x0101 holds data=00
+MEM TIMESTAMP=205000. Memory FSM=0 addr=0000 regFileData=00 readData=0020
+======================================================================
+Memory Bank TIMESTAMP:205000
+======================================================================
+MEMORY: addr=0000 readData=00 mem=00
+address x0100 holds data=00 address x0101 holds data=00
+MEM TIMESTAMP=215000. Memory FSM=0 addr=0000 regFileData=00 readData=0020
+======================================================================
+Memory Bank TIMESTAMP:215000
+======================================================================
+MEMORY: addr=0000 readData=00 mem=00
+address x0100 holds data=00 address x0101 holds data=00
+=============================================
+AGEX authorized to store to registers
+MEM TIMESTAMP=225000. Memory FSM=0 addr=0000 regFileData=00 readData=001f
+======================================================================
+Memory Bank TIMESTAMP:225000
+======================================================================
+MEMORY: addr=0000 readData=00 mem=00
+address x0100 holds data=00 address x0101 holds data=00
+MEM TIMESTAMP=235000. Memory FSM=0 addr=0000 regFileData=00 readData=001f
+======================================================================
+Memory Bank TIMESTAMP:235000
+======================================================================
+MEMORY: addr=0000 readData=00 mem=00
+address x0100 holds data=00 address x0101 holds data=00
+MEM TIMESTAMP=245000. Memory FSM=0 addr=0000 regFileData=00 readData=001f
+======================================================================
+Memory Bank TIMESTAMP:245000
+======================================================================
+MEMORY: addr=0000 readData=00 mem=00
+address x0100 holds data=00 address x0101 holds data=00
+MEM TIMESTAMP=255000. Memory FSM=0 addr=0000 regFileData=00 readData=001f
+======================================================================
+Memory Bank TIMESTAMP:255000
+======================================================================
+MEMORY: addr=0000 readData=00 mem=00
+address x0100 holds data=00 address x0101 holds data=00
+=============================================
+AGEX authorized to store to registers
+MEM TIMESTAMP=265000. Memory FSM=0 addr=0000 regFileData=00 readData=0000
+======================================================================
+Memory Bank TIMESTAMP:265000
+======================================================================
+MEMORY: addr=0000 readData=00 mem=00
+address x0100 holds data=00 address x0101 holds data=00
+MEM TIMESTAMP=275000. Memory FSM=0 addr=0000 regFileData=00 readData=0000
+======================================================================
+Memory Bank TIMESTAMP:275000
+======================================================================
+MEMORY: addr=0000 readData=00 mem=00
+address x0100 holds data=00 address x0101 holds data=00
+MEM TIMESTAMP=285000. Memory FSM=0 addr=0000 regFileData=00 readData=0000
+======================================================================
+Memory Bank TIMESTAMP:285000
+======================================================================
+MEMORY: addr=0000 readData=00 mem=00
+address x0100 holds data=00 address x0101 holds data=00
+MEM TIMESTAMP=295000. Memory FSM=0 addr=0000 regFileData=00 readData=0000
+======================================================================
+Memory Bank TIMESTAMP:295000
+======================================================================
+MEMORY: addr=0000 readData=00 mem=00
+address x0100 holds data=00 address x0101 holds data=00
+=============================================
+AGEX authorized to store to registers
+MEM TIMESTAMP=305000. Memory FSM=0 addr=0000 regFileData=00 readData=0000
+======================================================================
+Memory Bank TIMESTAMP:305000
+======================================================================
+MEMORY: addr=0000 readData=00 mem=00
+address x0100 holds data=00 address x0101 holds data=00
+MEM TIMESTAMP=315000. Memory FSM=0 addr=0000 regFileData=00 readData=0000
+======================================================================
+Memory Bank TIMESTAMP:315000
+======================================================================
+MEMORY: addr=0000 readData=00 mem=00
+address x0100 holds data=00 address x0101 holds data=00
+MEM TIMESTAMP=325000. Memory FSM=0 addr=0000 regFileData=00 readData=0000
+======================================================================
+Memory Bank TIMESTAMP:325000
+======================================================================
+MEMORY: addr=0000 readData=00 mem=00
+address x0100 holds data=00 address x0101 holds data=00
+MEM TIMESTAMP=335000. Memory FSM=0 addr=0000 regFileData=00 readData=0000
+======================================================================
+Memory Bank TIMESTAMP:335000
+======================================================================
+MEMORY: addr=0000 readData=00 mem=00
+address x0100 holds data=00 address x0101 holds data=00
+=============================================
+AGEX authorized to store to registers
+MEM TIMESTAMP=345000. Memory FSM=0 addr=0000 regFileData=00 readData=0100
+======================================================================
+Memory Bank TIMESTAMP:345000
+======================================================================
+MEMORY: addr=0000 readData=00 mem=00
+address x0100 holds data=00 address x0101 holds data=00
+MEM TIMESTAMP=355000. Memory FSM=0 addr=0000 regFileData=00 readData=0100
+======================================================================
+Memory Bank TIMESTAMP:355000
+======================================================================
+MEMORY: addr=0000 readData=00 mem=00
+address x0100 holds data=00 address x0101 holds data=00
+MEM TIMESTAMP=365000. Memory FSM=0 addr=0000 regFileData=00 readData=0100
+======================================================================
+Memory Bank TIMESTAMP:365000
+======================================================================
+MEMORY: addr=0000 readData=00 mem=00
+address x0100 holds data=00 address x0101 holds data=00
+MEM TIMESTAMP=375000. Memory FSM=0 addr=0000 regFileData=00 readData=0100
+======================================================================
+Memory Bank TIMESTAMP:375000
+======================================================================
+MEMORY: addr=0000 readData=00 mem=00
+address x0100 holds data=00 address x0101 holds data=00
+=============================================
+AGEX authorized to store to registers
+MEM TIMESTAMP=385000. Memory FSM=0 addr=0000 regFileData=00 readData=0003
+======================================================================
+Memory Bank TIMESTAMP:385000
+======================================================================
+MEMORY: addr=0000 readData=00 mem=00
+address x0100 holds data=00 address x0101 holds data=00
+MEM TIMESTAMP=395000. Memory FSM=0 addr=0000 regFileData=00 readData=0003
+======================================================================
+Memory Bank TIMESTAMP:395000
+======================================================================
+MEMORY: addr=0000 readData=00 mem=00
+address x0100 holds data=00 address x0101 holds data=00
+MEM TIMESTAMP=405000. Memory FSM=0 addr=0000 regFileData=00 readData=0003
+======================================================================
+Memory Bank TIMESTAMP:405000
+======================================================================
+MEMORY: addr=0000 readData=00 mem=00
+address x0100 holds data=00 address x0101 holds data=00
+MEM TIMESTAMP=415000. Memory FSM=0 addr=0000 regFileData=00 readData=0003
+======================================================================
+Memory Bank TIMESTAMP:415000
+======================================================================
+MEMORY: addr=0000 readData=00 mem=00
+address x0100 holds data=00 address x0101 holds data=00
+=============================================
+AGEX authorized to store to registers
+MEM TIMESTAMP=425000. Memory FSM=0 addr=0000 regFileData=00 readData=ffff
+======================================================================
+Memory Bank TIMESTAMP:425000
+======================================================================
+MEMORY: addr=0000 readData=00 mem=00
+address x0100 holds data=00 address x0101 holds data=00
+MEM TIMESTAMP=435000. Memory FSM=0 addr=0000 regFileData=00 readData=ffff
+======================================================================
+Memory Bank TIMESTAMP:435000
+======================================================================
+MEMORY: addr=0000 readData=00 mem=00
+address x0100 holds data=00 address x0101 holds data=00
+MEM TIMESTAMP=445000. Memory FSM=0 addr=0000 regFileData=00 readData=ffff
+======================================================================
+Memory Bank TIMESTAMP:445000
+======================================================================
+MEMORY: addr=0000 readData=00 mem=00
+address x0100 holds data=00 address x0101 holds data=00
+MEM TIMESTAMP=455000. Memory FSM=0 addr=0000 regFileData=00 readData=ffff
+======================================================================
+Memory Bank TIMESTAMP:455000
+======================================================================
+MEMORY: addr=0000 readData=00 mem=00
+address x0100 holds data=00 address x0101 holds data=00
+=============================================
+AGEX authorized to store to registers
+MEM TIMESTAMP=465000. Memory FSM=0 addr=0000 regFileData=00 readData=fffa
+======================================================================
+Memory Bank TIMESTAMP:465000
+======================================================================
+MEMORY: addr=0000 readData=00 mem=00
+address x0100 holds data=00 address x0101 holds data=00
+==================================================
+test 13 performed
+MEM TIMESTAMP=475000. Memory FSM=0 addr=0000 regFileData=00 readData=fffa
+======================================================================
+Memory Bank TIMESTAMP:475000
+======================================================================
+MEMORY: addr=0000 readData=00 mem=00
+address x0100 holds data=00 address x0101 holds data=00
+MEM TIMESTAMP=485000. Memory FSM=0 addr=0000 regFileData=00 readData=fffa
+======================================================================
+Memory Bank TIMESTAMP:485000
+======================================================================
+MEMORY: addr=0000 readData=00 mem=00
+address x0100 holds data=00 address x0101 holds data=00
+MEM TIMESTAMP=495000. Memory FSM=0 addr=0000 regFileData=00 readData=fffa
+======================================================================
+Memory Bank TIMESTAMP:495000
+======================================================================
+MEMORY: addr=0000 readData=00 mem=00
+address x0100 holds data=00 address x0101 holds data=00
+=============================================
+AGEX authorized to store to registers
+MEM TIMESTAMP=505000. Memory FSM=0 addr=0000 regFileData=00 readData=fffe
+======================================================================
+Memory Bank TIMESTAMP:505000
+======================================================================
+MEMORY: addr=0000 readData=00 mem=00
+address x0100 holds data=00 address x0101 holds data=00
+==================================================
+test 14 performed
+MEM TIMESTAMP=515000. Memory FSM=0 addr=0000 regFileData=00 readData=fffe
+======================================================================
+Memory Bank TIMESTAMP:515000
+======================================================================
+MEMORY: addr=0000 readData=00 mem=00
+address x0100 holds data=00 address x0101 holds data=00
+MEM TIMESTAMP=525000. Memory FSM=0 addr=0000 regFileData=00 readData=fffe
+======================================================================
+Memory Bank TIMESTAMP:525000
+======================================================================
+MEMORY: addr=0000 readData=00 mem=00
+address x0100 holds data=00 address x0101 holds data=00
+MEM TIMESTAMP=535000. Memory FSM=0 addr=0000 regFileData=00 readData=fffe
+======================================================================
+Memory Bank TIMESTAMP:535000
+======================================================================
+MEMORY: addr=0000 readData=00 mem=00
+address x0100 holds data=00 address x0101 holds data=00
+=============================================
+AGEX authorized to store to registers
+MEM TIMESTAMP=545000. Memory FSM=1 addr=0100 regFileData=00 readData=fffe
+======================================================================
+Memory Bank TIMESTAMP:545000
+======================================================================
+MEMORY: addr=0100 readData=00 mem=00
+address x0100 holds data=00 address x0101 holds data=00
+MEM TIMESTAMP=555000. Memory FSM=2 addr=0100 regFileData=00 readData=fffe
+MEM STATE 2. Read_EN=1, Write_EN=0. memory bank returned:00
+======================================================================
+Memory Bank TIMESTAMP:555000
+======================================================================
+MEMORY: addr=0100 readData=00 mem=00
+address x0100 holds data=00 address x0101 holds data=00
+MEM TIMESTAMP=565000. Memory FSM=0 addr=0100 regFileData=00 readData=0000
+======================================================================
+Memory Bank TIMESTAMP:565000
+======================================================================
+MEMORY: addr=0100 readData=00 mem=00
+address x0100 holds data=00 address x0101 holds data=00
+MEM TIMESTAMP=575000. Memory FSM=0 addr=0100 regFileData=00 readData=0000
+======================================================================
+Memory Bank TIMESTAMP:575000
+======================================================================
+MEMORY: addr=0100 readData=00 mem=00
+address x0100 holds data=00 address x0101 holds data=00
+test 15 performed. reloading address
+MEM TIMESTAMP=585000. Memory FSM=0 addr=0100 regFileData=00 readData=0000
+======================================================================
+Memory Bank TIMESTAMP:585000
+======================================================================
+MEMORY: addr=0100 readData=00 mem=00
+address x0100 holds data=00 address x0101 holds data=00
+MEM TIMESTAMP=595000. Memory FSM=0 addr=0100 regFileData=00 readData=0000
+======================================================================
+Memory Bank TIMESTAMP:595000
+======================================================================
+MEMORY: addr=0100 readData=00 mem=00
+address x0100 holds data=00 address x0101 holds data=00
+MEM TIMESTAMP=605000. Memory FSM=0 addr=0100 regFileData=00 readData=0000
+======================================================================
+Memory Bank TIMESTAMP:605000
+======================================================================
+MEMORY: addr=0100 readData=00 mem=00
+address x0100 holds data=00 address x0101 holds data=00
+=============================================
+AGEX authorized to store to registers
+MEM TIMESTAMP=615000. Memory FSM=1 addr=0100 regFileData=00 readData=0000
+======================================================================
+Memory Bank TIMESTAMP:615000
+======================================================================
+write authorized, writing=fe at address=0100
+MEMORY: addr=0100 readData=00 mem=00
+address x0100 holds data=00 address x0101 holds data=00
+MEM TIMESTAMP=625000. Memory FSM=2 addr=0100 regFileData=00 readData=0000
+MEM STATE 2. Read_EN=0, Write_EN=1. memory bank returned:00
+======================================================================
+Memory Bank TIMESTAMP:625000
+======================================================================
+write authorized, writing=fe at address=0100
+MEMORY: addr=0100 readData=00 mem=fe
+address x0100 holds data=fe address x0101 holds data=00
+MEM TIMESTAMP=635000. Memory FSM=0 addr=0100 regFileData=fe readData=0000
+======================================================================
+Memory Bank TIMESTAMP:635000
+======================================================================
+MEMORY: addr=0100 readData=fe mem=fe
+address x0100 holds data=fe address x0101 holds data=00
+MEM TIMESTAMP=645000. Memory FSM=0 addr=0100 regFileData=fe readData=0000
+======================================================================
+Memory Bank TIMESTAMP:645000
+======================================================================
+MEMORY: addr=0100 readData=fe mem=fe
+address x0100 holds data=fe address x0101 holds data=00
+MEM TIMESTAMP=655000. Memory FSM=0 addr=0100 regFileData=fe readData=0000
+======================================================================
+Memory Bank TIMESTAMP:655000
+======================================================================
+MEMORY: addr=0100 readData=fe mem=fe
+address x0100 holds data=fe address x0101 holds data=00
+MEM TIMESTAMP=665000. Memory FSM=0 addr=0100 regFileData=fe readData=0000
+======================================================================
+Memory Bank TIMESTAMP:665000
+======================================================================
+MEMORY: addr=0100 readData=fe mem=fe
+address x0100 holds data=fe address x0101 holds data=00
+MEM TIMESTAMP=675000. Memory FSM=0 addr=0100 regFileData=fe readData=0000
+======================================================================
+Memory Bank TIMESTAMP:675000
+======================================================================
+MEMORY: addr=0100 readData=fe mem=fe
+address x0100 holds data=fe address x0101 holds data=00
+=============================================
+AGEX authorized to store to registers
+MEM TIMESTAMP=685000. Memory FSM=1 addr=0100 regFileData=fe readData=0000
+======================================================================
+Memory Bank TIMESTAMP:685000
+======================================================================
+MEMORY: addr=0100 readData=fe mem=fe
+address x0100 holds data=fe address x0101 holds data=00
+MEM TIMESTAMP=695000. Memory FSM=2 addr=0100 regFileData=fe readData=0000
+MEM STATE 2. Read_EN=1, Write_EN=0. memory bank returned:fe
+======================================================================
+Memory Bank TIMESTAMP:695000
+======================================================================
+MEMORY: addr=0100 readData=fe mem=fe
+address x0100 holds data=fe address x0101 holds data=00
+MEM TIMESTAMP=705000. Memory FSM=0 addr=0100 regFileData=fe readData=fffe
+======================================================================
+Memory Bank TIMESTAMP:705000
+======================================================================
+MEMORY: addr=0100 readData=fe mem=fe
+address x0100 holds data=fe address x0101 holds data=00
+MEM TIMESTAMP=715000. Memory FSM=0 addr=0100 regFileData=fe readData=fffe
+======================================================================
+Memory Bank TIMESTAMP:715000
+======================================================================
+MEMORY: addr=0100 readData=fe mem=fe
+address x0100 holds data=fe address x0101 holds data=00
+MEM TIMESTAMP=725000. Memory FSM=0 addr=0100 regFileData=fe readData=fffe
+======================================================================
+Memory Bank TIMESTAMP:725000
+======================================================================
+MEMORY: addr=0100 readData=fe mem=fe
+address x0100 holds data=fe address x0101 holds data=00
+MEM TIMESTAMP=735000. Memory FSM=0 addr=0100 regFileData=fe readData=fffe
+======================================================================
+Memory Bank TIMESTAMP:735000
+======================================================================
+MEMORY: addr=0100 readData=fe mem=fe
+address x0100 holds data=fe address x0101 holds data=00
+MEM TIMESTAMP=745000. Memory FSM=0 addr=0100 regFileData=fe readData=fffe
+======================================================================
+Memory Bank TIMESTAMP:745000
+======================================================================
+MEMORY: addr=0100 readData=fe mem=fe
+address x0100 holds data=fe address x0101 holds data=00
+MEM TIMESTAMP=755000. Memory FSM=0 addr=0100 regFileData=fe readData=fffe
+LDW START
+======================================================================
+Memory Bank TIMESTAMP:755000
+======================================================================
+MEMORY: addr=0100 readData=fe mem=fe
+address x0100 holds data=fe address x0101 holds data=00
+=============================================
+AGEX authorized to store to registers
+MEM TIMESTAMP=765000. Memory FSM=1 addr=0100 regFileData=fe readData=fffe
+======================================================================
+Memory Bank TIMESTAMP:765000
+======================================================================
+MEMORY: addr=0100 readData=fe mem=fe
+address x0100 holds data=fe address x0101 holds data=00
+MEM TIMESTAMP=775000. Memory FSM=2 addr=0100 regFileData=fe readData=fffe
+MEM STATE 2. Read_EN=3, Write_EN=0. memory bank returned:fe
+2nd read required. going to savedAddress_2=0101
+======================================================================
+Memory Bank TIMESTAMP:775000
+======================================================================
+MEMORY: addr=0100 readData=fe mem=fe
+address x0100 holds data=fe address x0101 holds data=00
+MEM TIMESTAMP=785000. Memory FSM=3 addr=0101 regFileData=fe readData=fffe
+======================================================================
+Memory Bank TIMESTAMP:785000
+======================================================================
+MEMORY: addr=0101 readData=fe mem=00
+address x0100 holds data=fe address x0101 holds data=00
+MEM TIMESTAMP=795000. Memory FSM=4 addr=0101 regFileData=00 readData=fffe
+======================================================================
+Memory Bank TIMESTAMP:795000
+======================================================================
+MEMORY: addr=0101 readData=00 mem=00
+address x0100 holds data=fe address x0101 holds data=00
+MEM TIMESTAMP=805000. Memory FSM=0 addr=0101 regFileData=00 readData=00fe
+======================================================================
+Memory Bank TIMESTAMP:805000
+======================================================================
+MEMORY: addr=0101 readData=00 mem=00
+address x0100 holds data=fe address x0101 holds data=00
+MEM TIMESTAMP=815000. Memory FSM=0 addr=0101 regFileData=00 readData=00fe
+======================================================================
+Memory Bank TIMESTAMP:815000
+======================================================================
+MEMORY: addr=0101 readData=00 mem=00
+address x0100 holds data=fe address x0101 holds data=00
+MEM TIMESTAMP=825000. Memory FSM=0 addr=0101 regFileData=00 readData=00fe
+======================================================================
+Memory Bank TIMESTAMP:825000
+======================================================================
+MEMORY: addr=0101 readData=00 mem=00
+address x0100 holds data=fe address x0101 holds data=00
+MEM TIMESTAMP=835000. Memory FSM=0 addr=0101 regFileData=00 readData=00fe
+STW START addr=0100
+======================================================================
+Memory Bank TIMESTAMP:835000
+======================================================================
+MEMORY: addr=0101 readData=00 mem=00
+address x0100 holds data=fe address x0101 holds data=00
+=============================================
+AGEX authorized to store to registers
+MEM TIMESTAMP=845000. Memory FSM=1 addr=0100 regFileData=00 readData=00fe
+======================================================================
+Memory Bank TIMESTAMP:845000
+======================================================================
+write authorized, writing=fe at address=0100
+MEMORY: addr=0100 readData=00 mem=fe
+address x0100 holds data=fe address x0101 holds data=00
+MEM TIMESTAMP=855000. Memory FSM=2 addr=0100 regFileData=fe readData=00fe
+MEM STATE 2. Read_EN=0, Write_EN=3. memory bank returned:fe
+STW FIRST BYTE DONE
+======================================================================
+Memory Bank TIMESTAMP:855000
+======================================================================
+write authorized, writing=fe at address=0100
+MEMORY: addr=0100 readData=fe mem=fe
+address x0100 holds data=fe address x0101 holds data=00
+MEM TIMESTAMP=865000. Memory FSM=3 addr=0101 regFileData=fe readData=00fe
+======================================================================
+Memory Bank TIMESTAMP:865000
+======================================================================
+write authorized, writing=ff at address=0101
+MEMORY: addr=0101 readData=fe mem=00
+address x0100 holds data=fe address x0101 holds data=00
+MEM TIMESTAMP=875000. Memory FSM=4 addr=0101 regFileData=00 readData=00fe
+STW SECOND BYTE DONE
+======================================================================
+Memory Bank TIMESTAMP:875000
+======================================================================
+write authorized, writing=ff at address=0101
+MEMORY: addr=0101 readData=00 mem=ff
+address x0100 holds data=fe address x0101 holds data=ff
+MEM TIMESTAMP=885000. Memory FSM=0 addr=0101 regFileData=ff readData=00fe
+======================================================================
+Memory Bank TIMESTAMP:885000
+======================================================================
+MEMORY: addr=0101 readData=ff mem=ff
+address x0100 holds data=fe address x0101 holds data=ff
+MEM TIMESTAMP=895000. Memory FSM=0 addr=0101 regFileData=ff readData=00fe
+======================================================================
+Memory Bank TIMESTAMP:895000
+======================================================================
+MEMORY: addr=0101 readData=ff mem=ff
+address x0100 holds data=fe address x0101 holds data=ff
+MEM TIMESTAMP=905000. Memory FSM=0 addr=0101 regFileData=ff readData=00fe
+======================================================================
+Memory Bank TIMESTAMP:905000
+======================================================================
+MEMORY: addr=0101 readData=ff mem=ff
+address x0100 holds data=fe address x0101 holds data=ff
+MEM TIMESTAMP=915000. Memory FSM=0 addr=0101 regFileData=ff readData=00fe
+LDW START
+======================================================================
+Memory Bank TIMESTAMP:915000
+======================================================================
+MEMORY: addr=0101 readData=ff mem=ff
+address x0100 holds data=fe address x0101 holds data=ff
+=============================================
+AGEX authorized to store to registers
+MEM TIMESTAMP=925000. Memory FSM=1 addr=0100 regFileData=ff readData=00fe
+======================================================================
+Memory Bank TIMESTAMP:925000
+======================================================================
+MEMORY: addr=0100 readData=ff mem=fe
+address x0100 holds data=fe address x0101 holds data=ff
+MEM TIMESTAMP=935000. Memory FSM=2 addr=0100 regFileData=fe readData=00fe
+MEM STATE 2. Read_EN=3, Write_EN=0. memory bank returned:fe
+2nd read required. going to savedAddress_2=0101
+======================================================================
+Memory Bank TIMESTAMP:935000
+======================================================================
+MEMORY: addr=0100 readData=fe mem=fe
+address x0100 holds data=fe address x0101 holds data=ff
+MEM TIMESTAMP=945000. Memory FSM=3 addr=0101 regFileData=fe readData=00fe
+======================================================================
+Memory Bank TIMESTAMP:945000
+======================================================================
+MEMORY: addr=0101 readData=fe mem=ff
+address x0100 holds data=fe address x0101 holds data=ff
+MEM TIMESTAMP=955000. Memory FSM=4 addr=0101 regFileData=ff readData=00fe
+======================================================================
+Memory Bank TIMESTAMP:955000
+======================================================================
+MEMORY: addr=0101 readData=ff mem=ff
+address x0100 holds data=fe address x0101 holds data=ff
+MEM TIMESTAMP=965000. Memory FSM=0 addr=0101 regFileData=ff readData=fffe
+======================================================================
+Memory Bank TIMESTAMP:965000
+======================================================================
+MEMORY: addr=0101 readData=ff mem=ff
+address x0100 holds data=fe address x0101 holds data=ff
+MEM TIMESTAMP=975000. Memory FSM=0 addr=0101 regFileData=ff readData=fffe
+======================================================================
+Memory Bank TIMESTAMP:975000
+======================================================================
+MEMORY: addr=0101 readData=ff mem=ff
+address x0100 holds data=fe address x0101 holds data=ff
+MEM TIMESTAMP=985000. Memory FSM=0 addr=0101 regFileData=ff readData=fffe
+======================================================================
+Memory Bank TIMESTAMP:985000
+======================================================================
+MEMORY: addr=0101 readData=ff mem=ff
+address x0100 holds data=fe address x0101 holds data=ff
+MEM TIMESTAMP=995000. Memory FSM=0 addr=0101 regFileData=ff readData=fffe
+======================================================================
+Memory Bank TIMESTAMP:995000
+======================================================================
+MEMORY: addr=0101 readData=ff mem=ff
+address x0100 holds data=fe address x0101 holds data=ff
